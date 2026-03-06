@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website. This site showcases my work, projects, and background as a Computer Science student at Georgia State University (graduating Dec 2025). I specialize in **Python, React, Node.js, SQL, and cloud-based solutions**, and I’m passionate about building data-driven and AI-assisted applications.  
 
-🌐 **Live Site:** [Add your deployed site link here]  
+🌐 **Live Site:** https://vinh-le.com/
 📄 **Resume:** [Resume Link](https://drive.google.com/file/d/1DQzbgkqcPKxikPOpN7_omq6dCykoadB-/view?usp=drive_link)  
 💼 **LinkedIn:** [linkedin.com/in/vinh-le-ab96ba251](https://www.linkedin.com/in/vinh-le-ab96ba251/)  
 🐙 **GitHub:** [github.com/vinhbin](https://github.com/vinhbin)
