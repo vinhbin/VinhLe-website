@@ -1,78 +1,93 @@
-# Vinh Le – Portfolio
+# Vinh Le — Portfolio
 
-Welcome to my personal portfolio website. This site showcases my work, projects, and background as a Computer Science student at Georgia State University (graduating Dec 2025). I specialize in **Python, React, Node.js, SQL, and cloud-based solutions**, and I’m passionate about building data-driven and AI-assisted applications.  
+Personal portfolio website for Vinh Le, full-stack software engineer. B.S. CS from Georgia State University (Dec 2025), incoming M.S. CS at Georgia Tech OMSCS (Aug 2026).
 
 🌐 **Live Site:** https://vinh-le.com/
-📄 **Resume:** [Resume Link](https://drive.google.com/file/d/1DQzbgkqcPKxikPOpN7_omq6dCykoadB-/view?usp=drive_link)  
-💼 **LinkedIn:** [linkedin.com/in/vinh-le-ab96ba251](https://www.linkedin.com/in/vinh-le-ab96ba251/)  
+📄 **Resume:** [Resume Link](https://drive.google.com/file/d/12-XkvyMMROpmAihpwPXNC2v53SX-WWIK/view?usp=sharing)
+💼 **LinkedIn:** [linkedin.com/in/vinh-le-ab96ba251](https://www.linkedin.com/in/vinh-le-ab96ba251/)
 🐙 **GitHub:** [github.com/vinhbin](https://github.com/vinhbin)
 
 ---
 
-## 🚀 Projects
+## Experience
 
-### [FinanceFlow](https://github.com/vinhbin)  
-**Tech:** React, Node.js/Express, AWS RDS, Plaid API, OpenAI  
-- Secure financial management web app.  
-- Features: bank integration, auto transaction categorization, subscription tracking, AI-powered insights, notifications.  
-- Deployed on Vercel.  
-- ![FinanceFlow Screenshot](images/financeflow1.png)
+**Software Engineering Intern — SkyIT (GBCS Group)** *(Mar 2026 – Present)*
+- Modernized legacy React codebase: audited 12+ dependencies, migrated 55+ files from Bootstrap 4 → 5
+- Resolved breaking changes across Axios and PrimeReact, stabilizing builds
+- Diagnosed and fixed real-time lifecycle bugs, restoring live notifications in production
+- Identified 10+ critical QA issues including HTTP 400/500 errors and crashes
 
----
-
-### [SmartBook](https://github.com/vinhbin)  
-**Tech:** Flutter, Dart, Firebase, Google Books API  
-- Personalized reading companion app.  
-- Features: personalized dashboard, book catalog, reading list, reviews, community forum, profile stats.  
-- Built with Firebase Auth & Firestore for real-time sync.  
-- Solved Firebase rules & review screen loading issues.  
-- Future improvements: filters, dark mode, AI recommendations.  
-- ![SmartBook Screenshot](images/smartbook1.png)
+**Software Engineering Fellow — Headstarter AI** *(Jul 2024 – Sep 2024)*
+- Built full-stack and AI-integrated applications using OpenAI, Claude, and modern web stacks
 
 ---
 
-### Data Sorting Analysis  
-**Tech:** Python, Pandas, NumPy, Matplotlib  
-- Optimized pipelines (+30% efficiency).  
-- Built visual dashboards to surface trends.  
-- Led team of 4 analyzing car reliability & satisfaction.  
+## Projects
+
+### VibeCheck *(Hackathon — Mar 2026)*
+**Tech:** Express, Supabase, pgvector, AI Embeddings
+- Full-stack real-time networking platform built and deployed within 12 hours
+- AI-powered matching using embeddings (pgvector, cosine similarity) and streaming responses
+
+### CareCircle *(Hackathon — Apr 2026)*
+**Tech:** Next.js, Supabase, Gemini 2.5 Flash
+- Multilingual caregiving platform (12 APIs, 9 tables) supporting 10 languages
+- Multimodal AI pipeline for OCR, voice transcription, and medical translation
+- Emergency QR system for instant access to patient-critical information
+
+### [FinanceFlow](https://financeflow.icu/login) *(Fall 2024 — Top 3 Capstone)*
+**Tech:** Node.js, Express, MySQL, Plaid API, JWT, OpenAI
+- RESTful APIs for authentication, transactions, and Plaid bank integration
+- JWT-based auth and relational MySQL schema design
+- AI-powered financial insights
+
+### [TripBoard](https://app.tripboard.xyz/dashboard) *(Fall 2025)*
+**Tech:** React, Node.js, MongoDB
+- Collaborative travel platform with REST APIs and real-time scheduling features
+
+### [SmartBook](https://github.com/vinhbin/smartbook) *(Jan–May 2025)*
+**Tech:** Flutter, Dart, Firebase, Google Books API
+- Mobile reading companion with Firebase Auth, Firestore, and real-time book search
+
+### [Heart Disease Prediction](https://github.com/vinhbin/heartdiseaseDS) *(Fall 2025)*
+**Tech:** Python, scikit-learn, Pandas, NumPy
+- Logistic Regression and Random Forest models evaluated via ROC-AUC, precision, and recall
 
 ---
 
-### Other Projects  
-- [Responsive Portfolio](https://kaleidoscopic-dragon-001222.netlify.app/) – HTML/CSS responsive personal site.  
-- [Interactive Web Layout](https://spectacular-lokum-587c36.netlify.app/) – Animations + layouts demo.  
-- [Simple Landing Page](https://silver-sawine-098aff.netlify.app/) – Minimal landing page design.  
-- [Creative Web Concept](https://luminous-croquembouche-dc1e3d.netlify.app/) – Experimental responsive animations.  
+## Skills
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript, TypeScript, Java, SQL |
+| **Frontend** | React, HTML, CSS, Bootstrap |
+| **Backend** | Node.js, Express, REST APIs, JWT Authentication |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Tools & Cloud** | Git, Docker, AWS, Azure, Vercel, Railway, Postman |
+| **AI / ML** | OpenAI API, Claude API, Embeddings, RAG, scikit-learn |
 
 ---
 
-## 🛠️ Skills
-- **Languages:** Java, Python, SQL, JavaScript, HTML/CSS  
-- **Frameworks:** React, Node.js, FastAPI, Material-UI  
-- **Developer Tools:** Git, Docker, TravisCI, GCP, VS Code, IntelliJ, PyCharm  
-- **Libraries:** Pandas, NumPy, Matplotlib  
+## Education
+
+**Georgia Institute of Technology** — M.S. Computer Science (OMSCS)
+*Aug 2026 – May 2028 (Incoming)*
+
+**Georgia State University** — B.S. Computer Science
+*Aug 2022 – Dec 2025 | GPA: 3.5 | Dean's List*
 
 ---
 
-## 📚 Education
-**Georgia State University**  
-_B.S. in Computer Science (Aug 2022 – Dec 2025)_  
-- GPA: 3.5 | Dean’s List
+## Run Locally
 
----
-
-## ✨ Quote
-> “Be one percent better than you were yesterday.”
-
----
-
-## 📦 Installation & Setup
-To run locally:
 ```bash
-# Clone the repo
-git clone https://github.com/vinhbin/portfolio.git
-
-cd portfolio
-
+git clone https://github.com/vinhbin/VinhLe.github.io.git
+cd VinhLe.github.io
 # Open index.html in your browser
+```
+
+No build step required — plain HTML, CSS, and JavaScript.
+
+---
+
+> "Be one percent better than you were yesterday."
